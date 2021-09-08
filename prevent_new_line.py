@@ -1,0 +1,5 @@
+print("how",end=" ")
+print("are",end=" ")
+print("you",end=" ")
+print("joe",end=" ")
+print("mama")
